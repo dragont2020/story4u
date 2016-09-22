@@ -1,0 +1,18 @@
+blockquote.license {
+    overflow: scroll;
+    height: 500px;
+}
+.footer {
+    line-height: 20px;
+    text-shadow: 0 1px 1px #fff;
+}
+.footer {
+    margin-top: 6px;
+    color: #888;
+}
+.footer td {
+    padding: 6px;
+}
+.footer a {
+    color: #888;
+}
