@@ -1,1 +1,0 @@
-http://www.verot.net/php_class_upload.htm
